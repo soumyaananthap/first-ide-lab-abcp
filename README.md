@@ -223,7 +223,7 @@
 
   1. Open the lab by clicking the "Open" button.
   
-  <br>
+  <br>Open</br>
 
   2. Read the README of the lab and get a sense of what the lab wants you to do.
   
@@ -496,7 +496,7 @@
 
   1. Open the lab by clicking the "Open" button.
   
-  <br>
+  <br>Open</br>
 
   2. Read the README of the lab and get a sense of what the lab wants you to do.
   
